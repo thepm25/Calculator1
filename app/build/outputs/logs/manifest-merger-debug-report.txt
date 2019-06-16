@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/garima/.gradle/caches/transforms-2/files-2.1/03ddf2a2e128ce5f48897e3b68967b79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/garima/.gradle/caches/transforms-2/files-2.1/8ef67969e8cba5090b0fdae8218d9c24/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/2e5ecec163fd5b6092a867e9717ff397/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/b2423b27e9bfaf959fe1f5fa31e43139/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/3c73d555e96dea51e82ddcd64caa7f6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a1fdc584f0f345e974c327b39e723baa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/b30c20aeefe81fd3e953d35ea9a935dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a90c40a59b3be2cd7166f2185e610446/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/91da390c169616f6861653ed9fe69434/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/75f8ba94d53484ab74ace0e2a30a340c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/95178d9c7eb20c681c9344f5a0650d29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/e61d61fccbaef311129f789951a641b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/24c79cbabecd32107030e42a1955ca5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/86195a10e9e51fc6d161aa360ab716e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/5b6c6df3db8952c6c74f8319d7af688d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/a80676e28db0a40a91230a399337c3ef/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/96037d1dc2dee1151b795de4ed988fa5/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/12197fb90eefeab6bfcd1112082b0cd4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a7b6925b2236ac461bd1642acb4f39a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/721f74924e1f72f73485f5329f356482/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/489f8d093329b04ed2e36bb616c440c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/332f1c23c898d7e8ebac7000ede94fca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/6d1c9ae892b9fbaa5a88db87a3530a39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/03a296fa12b1c59e487f0301177f7232/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/03e408185ecacb90024ccbee0c9480a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/1590cacea8b3c7a557c73d1a685d0d1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/361bca9edb6e01937271d6804251545a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:6:18-37
+application
+ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/garima/.gradle/caches/transforms-2/files-2.1/8ef67969e8cba5090b0fdae8218d9c24/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/garima/.gradle/caches/transforms-2/files-2.1/8ef67969e8cba5090b0fdae8218d9c24/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/a80676e28db0a40a91230a399337c3ef/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/a80676e28db0a40a91230a399337c3ef/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/96037d1dc2dee1151b795de4ed988fa5/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/96037d1dc2dee1151b795de4ed988fa5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/a80676e28db0a40a91230a399337c3ef/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.calculator.MainActivity
+ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/garima/.gradle/caches/transforms-2/files-2.1/03ddf2a2e128ce5f48897e3b68967b79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/garima/.gradle/caches/transforms-2/files-2.1/03ddf2a2e128ce5f48897e3b68967b79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/garima/.gradle/caches/transforms-2/files-2.1/8ef67969e8cba5090b0fdae8218d9c24/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/garima/.gradle/caches/transforms-2/files-2.1/8ef67969e8cba5090b0fdae8218d9c24/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/2e5ecec163fd5b6092a867e9717ff397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/2e5ecec163fd5b6092a867e9717ff397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/b2423b27e9bfaf959fe1f5fa31e43139/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/b2423b27e9bfaf959fe1f5fa31e43139/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/3c73d555e96dea51e82ddcd64caa7f6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/3c73d555e96dea51e82ddcd64caa7f6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a1fdc584f0f345e974c327b39e723baa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a1fdc584f0f345e974c327b39e723baa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/b30c20aeefe81fd3e953d35ea9a935dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/b30c20aeefe81fd3e953d35ea9a935dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a90c40a59b3be2cd7166f2185e610446/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a90c40a59b3be2cd7166f2185e610446/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/91da390c169616f6861653ed9fe69434/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/91da390c169616f6861653ed9fe69434/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/75f8ba94d53484ab74ace0e2a30a340c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/75f8ba94d53484ab74ace0e2a30a340c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/95178d9c7eb20c681c9344f5a0650d29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/95178d9c7eb20c681c9344f5a0650d29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/e61d61fccbaef311129f789951a641b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/e61d61fccbaef311129f789951a641b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/24c79cbabecd32107030e42a1955ca5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/24c79cbabecd32107030e42a1955ca5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/86195a10e9e51fc6d161aa360ab716e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/86195a10e9e51fc6d161aa360ab716e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/5b6c6df3db8952c6c74f8319d7af688d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/5b6c6df3db8952c6c74f8319d7af688d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/a80676e28db0a40a91230a399337c3ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/garima/.gradle/caches/transforms-2/files-2.1/a80676e28db0a40a91230a399337c3ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/96037d1dc2dee1151b795de4ed988fa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/96037d1dc2dee1151b795de4ed988fa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/12197fb90eefeab6bfcd1112082b0cd4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/12197fb90eefeab6bfcd1112082b0cd4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a7b6925b2236ac461bd1642acb4f39a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/a7b6925b2236ac461bd1642acb4f39a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/721f74924e1f72f73485f5329f356482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/721f74924e1f72f73485f5329f356482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/489f8d093329b04ed2e36bb616c440c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/489f8d093329b04ed2e36bb616c440c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/332f1c23c898d7e8ebac7000ede94fca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/332f1c23c898d7e8ebac7000ede94fca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/6d1c9ae892b9fbaa5a88db87a3530a39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/6d1c9ae892b9fbaa5a88db87a3530a39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/03a296fa12b1c59e487f0301177f7232/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/03a296fa12b1c59e487f0301177f7232/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/03e408185ecacb90024ccbee0c9480a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/03e408185ecacb90024ccbee0c9480a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/1590cacea8b3c7a557c73d1a685d0d1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/1590cacea8b3c7a557c73d1a685d0d1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/361bca9edb6e01937271d6804251545a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/garima/.gradle/caches/transforms-2/files-2.1/361bca9edb6e01937271d6804251545a/AndroidManifest.xml:20:5-44
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/garima/AndroidStudioProjects/Calculator/app/src/main/AndroidManifest.xml
